@@ -2,3 +2,5 @@ pandas
 seaborn
 matplotlib
 deep-translator
+wordcloud
+geopandas
